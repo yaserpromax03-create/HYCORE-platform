@@ -1,0 +1,17 @@
+{
+  "name": "منصة HY CORE التعليمية",
+  "short_name": "HY CORE",
+  "description": "دروس صفك ووظائفك ومتابعتك الشهرية في مكان واحد",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "app.html#/home",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0B0E13",
+  "theme_color": "#0B0E13",
+  "icons": [
+    { "src": "img/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "img/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "img/icon-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
